@@ -8,7 +8,6 @@ except:
 #iniciando pygame
     pygame.init()
     clock = pygame.time.Clock()
-
     #colores rgb
     red = (255,0,0)
     green = (0,255,0)
